@@ -4,11 +4,11 @@ Welcome to my portfolio! Here, I showcase data science projects covering explora
 
 ## Projects
 
-1. [Sentiment analysis](projects/sentiment_analysis) - Sentiment analysis of movie reviews based on IMDB data.
+1. [Sentiment analysis](projects/sentiment_analysis) - Sentiment analysis of movie reviews based on IMDB data (Logistic Regression & Neural Network)
 2. [Data Analytics](projects/data_analytics) - First Projects of Exploratory Data Analysis (EDA).  
-   2.1. [Dr Semmelweis Handwashing Discovery](projects/data_analytics/Dr_Semmelweis_Handwashing_Discovery.ipynb)  
-   2.2. [Google Trends](projects/data_analytics/Google_Trends_and_Data_Visualisation.ipynb)  
-   2.3. [Space Missions](projects/data_analytics/Space_Missions_Analysis.ipynb)
+   [Dr Semmelweis Handwashing Discovery](projects/data_analytics/Dr_Semmelweis_Handwashing_Discovery.ipynb)  
+   [Google Trends](projects/data_analytics/Google_Trends_and_Data_Visualisation.ipynb)  
+   [Space Missions](projects/data_analytics/Space_Missions_Analysis.ipynb)
 
 ## Technologies Used
 - Python
