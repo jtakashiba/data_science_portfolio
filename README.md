@@ -4,7 +4,7 @@ Welcome to my portfolio! Here, I showcase data science projects covering explora
 
 ## Projects
 
-1. [Sentiment analysis](projects/project_name) - Sentiment analysis of movie reviews based on MDB data.
+1. [Sentiment analysis](projects/sentiment_analysis) - Sentiment analysis of movie reviews based on IMDB data.
 2. [TBD](projects/another_project) -
 
 ## Technologies Used
